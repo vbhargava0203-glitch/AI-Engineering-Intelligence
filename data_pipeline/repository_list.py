@@ -1,0 +1,17 @@
+REPOSITORIES = [
+    ("facebook", "react"),
+    ("vuejs", "core"),
+    ("angular", "angular"),
+    ("vercel", "next.js"),
+    ("django", "django"),
+    ("tiangolo", "fastapi"),
+    ("pallets", "flask"),
+    ("nodejs", "node"),
+    ("tensorflow", "tensorflow"),
+    ("pytorch", "pytorch"),
+    ("kubernetes", "kubernetes"),
+    ("microsoft", "vscode"),
+    ("psf", "requests"),
+    ("pandas-dev", "pandas"),
+    ("numpy", "numpy"),
+]
